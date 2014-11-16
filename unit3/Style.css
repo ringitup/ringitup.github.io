@@ -1,0 +1,45 @@
+body{
+background: url("assets/stripes.png"), url("assets/background.jpg") #525968;
+background-repeat: repeat-x, no-repeat;
+font-family: Helvetica, Arial;
+font-weight: 100;
+font color: white
+
+}
+header{
+	
+	margin-bottom: 20px;
+	width: 47px;
+	height: 44px;
+
+}
+
+hr{
+	margin: 0px;
+	margin-left: 150px;
+	width: 100px;
+	height: 3px;
+	border: none;
+	background-color: 985067;
+
+}
+p{
+	color: white;
+	margin-left: 150px;
+	font-size: 20pf;
+	line-height: 24px
+
+}
+
+img{
+	margin-left: 150px;
+		
+}
+
+.wrapper
+{
+	margin-top: 200px; 
+	margin-left: 150px;
+
+}
+
